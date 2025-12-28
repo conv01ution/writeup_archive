@@ -17,13 +17,15 @@ events/
 
 ## Format Writeup
 
-Setiap writeup ditulis dalam format Markdown (.md) atau PDF (.pdf) dan mencakup:
+Setiap writeup ditulis dalam format Markdown (.md) dan mencakup:
 - Nama dan kategori challenge
 - Deskripsi challenge
 - Langkah-langkah penyelesaian
 - Flag yang diperoleh
 - Tools yang digunakan
 - Lessons learned
+
+**Catatan**: File PDF dapat disimpan di folder `assets/` sebagai dokumentasi tambahan jika diperlukan.
 
 ## Cara Berkontribusi
 

@@ -50,7 +50,7 @@ print(plaintext)
 
 #### Step 3: Mendapatkan Flag
 
-Output: `FLAG{C3E1R_CIPHER_IS_EASY}`
+Output: `FLAG{C3SAR_CIPHER_IS_EASY}`
 
 ### Exploit
 
@@ -73,7 +73,7 @@ print(rot13(ciphertext))
 ## Flag
 
 ```
-FLAG{C3E1R_CIPHER_IS_EASY}
+FLAG{C3SAR_CIPHER_IS_EASY}
 ```
 
 ## Tools Used
